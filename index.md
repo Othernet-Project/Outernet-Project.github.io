@@ -1,4 +1,4 @@
-# Static Wiki
+# Static Wiki Test
 
 Static wiki is a client side wiki for pure markdown. All you need is a simple file
 server(Github Pages is enough) to serve files and a browser to actually view.
