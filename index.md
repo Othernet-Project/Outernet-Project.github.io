@@ -1,20 +1,7 @@
-# Static Wiki Test
+# Dreamcatcher
 
-Static wiki is a client side wiki for pure markdown. All you need is a simple file
-server(Github Pages is enough) to serve files and a browser to actually view.
+Dreamcatcher 2.03 is the main receiver hardware for L-band outernet. It is designed to run the Outernet software stack called Skylark, but there is also an Armbian image available (unsupported by Outernet).
 
-Static-wiki is hosted on [Github:
-static-wiki](https://github.com/lotabout/static-wiki) See [README](README.md)
-for detail documentation.
+Some documentation for Armbian:
 
-Any suggestions and comments, use the [Issue Tracker](https://github.com/lotabout/static-wiki/issues)
-
-I know I am bad at naming...
-
-## Code Sample
-
-```c
-int main() {
-    printf("hello world");
-}
-```
+[Armbian Images](Armbian%20Operating%20System%20Images.md)
